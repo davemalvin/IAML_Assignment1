@@ -1,2 +1,5 @@
 # IAML_Assignment1
-Linear &amp; Nonlinear Regression, Decision Trees, Evaluating Binary Classifiers
+Q1: Linear Regression<br/>
+Q2: Nonlinear Regression<br/>
+Q3: Decision Trees<br/>
+Q4: Evaluating Binary Classifiers
